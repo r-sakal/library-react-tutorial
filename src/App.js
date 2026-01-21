@@ -14,7 +14,7 @@ function App() {
   const [cart, setCart] = useState([]);
 
 function addToCart(book) {
-  setCart([...cart, git book])
+  setCart([...cart, book])
 }
 
 useEffect(() => {
