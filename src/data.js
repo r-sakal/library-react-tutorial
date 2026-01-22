@@ -45,7 +45,7 @@ export const books = [
     title: "Sell Or Be Sold",
     url: "https://m.media-amazon.com/images/I/616OvChM3RL._AC_UF1000,1000_QL80_.jpg",
     originalPrice: 70,
-    salePrice: 12.5,
+    salePrice: 12.50,
     rating: 5,
   },
   {
